@@ -1,0 +1,14 @@
+# Standard Unity ignores in case someone imports the snippets into a project.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.suo
+.vs/
+.idea/
+.vscode/
